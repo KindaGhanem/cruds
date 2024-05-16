@@ -1,0 +1,17 @@
+.table{
+    border-color: black;
+}
+
+button{
+    margin-left: 45%;
+}
+.input-group{
+    width: 70%;
+    margin: 10px auto !important;
+}
+
+.name , .last , .handle{
+    width: 50%;
+    margin: auto;
+    border: 1px solid black;
+}
